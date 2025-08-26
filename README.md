@@ -3,6 +3,7 @@
 I'm **Satwika Nino Wandhana**, a Computer Science student at Universitas Gadjah Mada.  
 I’m passionate about **cybersecurity, software development, and artificial intelligence**, and I enjoy building projects that empower people and solve real-world problems.  
 
+<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 ---
 
 ## 🚀 About Me
@@ -47,3 +48,4 @@ I’m passionate about **cybersecurity, software development, and artificial int
 ---
 
 ⭐️ From [Satwika Nino Wandhana](https://github.com/Nino-123)  
+
