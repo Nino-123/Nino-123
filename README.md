@@ -2,8 +2,10 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp> I'm *Satwika Nino Wandhana*, a Computer Science student at Universitas Gadjah Mada.  I’m passionate about *cybersecurity, software development, and artificial intelligence*, and I enjoy building projects that empower people and solve real-world problems. 
-  </samp>
+  I'm <strong>Satwika Nino Wandhana</strong>, a Computer Science student at Universitas Gadjah Mada. 
+  I’m passionate about <strong>cybersecurity, software development, and artificial intelligence</strong>, 
+  and I enjoy building projects that empower people and solve real-world problems.
+</p>
 
 
 ## ⚡ GitHub Stats
