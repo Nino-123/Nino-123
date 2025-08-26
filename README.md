@@ -20,9 +20,12 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/satwikaninowandhana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nino.wandhana@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-- 📷 Instagram [@iamnino___](https://www.instagram.com/iamnino___/)  
-- 🌐 [Portfolio Website](https://) (coming soon)  
-⭐️ From [Satwika Nino Wandhana](https://github.com/Nino-123)  
+  <a target="_blank" href="https://www.instagram.com/iamnino___/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/Nino-123">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a> 
 </p>
 
 <hr>
