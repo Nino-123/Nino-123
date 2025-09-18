@@ -1,4 +1,5 @@
 <h1 align="center"> 👋 </h1> 
+<img align="center" width="480" height="217" alt="image" src="https://github.com/user-attachments/assets/e4abd494-fb1e-4b6c-bd8e-9341b2c9ef6a" />
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
