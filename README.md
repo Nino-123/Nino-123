@@ -1,6 +1,5 @@
 <h1 align="center"> 👋 </h1> 
-![minionn](https://github.com/user-attachments/assets/3c959508-a71a-4bd1-b50a-c6e1751d6158)
-
+<p align="center"> <img src="https://github.com/user-attachments/assets/3c959508-a71a-4bd1-b50a-c6e1751d6158"> </p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
@@ -8,6 +7,7 @@
   I’m passionate about <strong>cybersecurity, software development, and artificial intelligence</strong>, 
   and I enjoy building projects that empower people and solve real-world problems.
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nino-123&label=Profile%20views&color=0e75b6&style=flat" alt="Nino-123" /> </p>
 
 
 ## ⚡ GitHub Stats
