@@ -1,5 +1,6 @@
 <h1 align="center"> 👋 </h1> 
-![Image](https://github.com/user-attachments/assets/2e07b02a-ee3e-43c9-b6bf-772213db0f9e)
+![minionn](https://github.com/user-attachments/assets/3c959508-a71a-4bd1-b50a-c6e1751d6158)
+
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
